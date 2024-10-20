@@ -10,10 +10,10 @@ Welcome to the **Python Projects** repository! This collection features various 
 
 ## 📂 Projects Overview
 
-### **1. [Image Converter](./Image-Converter)**  
+### **1. [Image Converter](./Image_Converter)**  
 A user-friendly GUI application designed to effortlessly convert images between different formats. Perfect for quick and easy image management.
 
-### **2. [Video Chaptering](./Video-Chaptering)**  
+### **2. [Video Chaptering](./Video_Chaptering)**  
 Automate the extraction of chapters from YouTube videos by analyzing their transcripts. This project utilizes the YouTube API and NLP techniques to create an organized and engaging viewing experience.
 
 ---
