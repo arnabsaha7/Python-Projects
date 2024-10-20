@@ -64,5 +64,3 @@ All projects in this repository are licensed under the MIT License. Please refer
 
 Feel free to explore, contribute, and learn from these projects! Happy coding! 🎉
 ```
-
-This version has a more polished layout and uses formatting to enhance readability while maintaining a professional appearance. Let me know if you’d like any further tweaks!
