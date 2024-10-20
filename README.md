@@ -63,4 +63,6 @@ All projects in this repository are licensed under the MIT License. Please refer
 ---
 
 Feel free to explore, contribute, and learn from these projects! Happy coding! 🎉
-```
+
+---
+
