@@ -16,6 +16,9 @@ A user-friendly GUI application designed to effortlessly convert images between 
 ### **2. [Video Chaptering](./Video_Chaptering)**  
 Automate the extraction of chapters from YouTube videos by analyzing their transcripts. This project utilizes the YouTube API and NLP techniques to create an organized and engaging viewing experience.
 
+### **3. [Next Word Prediction using LSTM](./Next_Word_Prediction)**  
+A predictive text model built with LSTM to generate the next word in a sequence based on previous input. This project demonstrates deep learning techniques in Natural Language Processing (NLP) for enhancing text generation models.
+
 ---
 
 ## 📚 Getting Started
