@@ -1,8 +1,9 @@
-# 🐍 Python Projects
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/arnabsaha7/Python-Projects?color=orange&style=social)
-![Open Issues](https://img.shields.io/github/issues/arnabsaha7/Python-Projects?color=red&style=social)
-![Stars](https://img.shields.io/github/stars/arnabsaha7/Python-Projects?style=social&color=yellow)
+# <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" style="vertical-align: middle;"> Python Projects 
+
+![Python](https://img.shields.io/badge/Python-3.x-3572A5?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/arnabsaha7/Python-Projects?color=FFA500&style=social)
+![Open Issues](https://img.shields.io/github/issues/arnabsaha7/Python-Projects?color=FF6347&style=social)
+![Stars](https://img.shields.io/github/stars/arnabsaha7/Python-Projects?style=social&color=FFD700)
 
 Welcome to the **Python Projects** repository! This collection features various innovative projects showcasing Python's capabilities, from image processing to video analysis. Explore these projects to enhance your Python skills and gain practical experience.
 
