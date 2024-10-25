@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-df = pd.read_csv("C:/Users/asaha7/OneDrive - Deloitte (O365D)/Desktop/C O D E S/mini_projects/RMF_Analytics_Dashboard/data/rfm_data.csv")
+df = pd.read_csv("data/rfm_data.csv")
 print(df.head())
 
 # Convert 'PurchaseDate' to datetime
