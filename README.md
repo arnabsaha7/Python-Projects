@@ -14,10 +14,13 @@ Welcome to the **Python Projects** repository! This collection features various 
 A user-friendly GUI application designed to effortlessly convert images between different formats. Perfect for quick and easy image management.
 
 ### **2. [Video Chaptering](./Video_Chaptering)**  
-Automate the extraction of chapters from YouTube videos by analyzing their transcripts. This project utilizes the YouTube API and NLP techniques to create an organized and engaging viewing experience.
+Automates the extraction of chapters from YouTube videos by analyzing their transcripts. This project utilizes the `YouTube API` and `NLP` techniques to create an organized and engaging viewing experience.
 
 ### **3. [Next Word Prediction using LSTM](./Next_Word_Prediction)**  
-A predictive text model built with LSTM to generate the next word in a sequence based on previous input. This project demonstrates deep learning techniques in Natural Language Processing (NLP) for enhancing text generation models.
+A predictive text model built with `LSTM` to generate the next word in a sequence based on previous input. This project demonstrates deep learning techniques in Natural Language Processing (`NLP`) for enhancing text generation models.
+
+### **4. [RMF Analytics Dashboard](./RMF_Analytics_Dashboard)**  
+An interactive analytics dashboard that leverages RMF (Recency, Monetary, Frequency) analysis for detailed customer segmentation and data visualization. Built with `pandas`, `plotly`, and `dash`, this dashboard provides insights into customer value, behavior, and segmentation.
 
 ---
 
